@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://pmod.robotikabrno.cz/</loc>
-         <lastmod>2025-10-01</lastmod>
+         <lastmod>2025-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pmod.robotikabrno.cz/IR/</loc>
-         <lastmod>2025-10-01</lastmod>
+         <lastmod>2025-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pmod.robotikabrno.cz/IR/manual/</loc>
-         <lastmod>2025-10-01</lastmod>
+         <lastmod>2025-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pmod.robotikabrno.cz/template/</loc>
-         <lastmod>2025-10-01</lastmod>
+         <lastmod>2025-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://pmod.robotikabrno.cz/template/manual/</loc>
-         <lastmod>2025-10-01</lastmod>
+         <lastmod>2025-10-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
