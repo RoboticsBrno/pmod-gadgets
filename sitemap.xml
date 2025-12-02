@@ -26,6 +26,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://pmod.robotikabrno.cz/Microphone/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://pmod.robotikabrno.cz/Microphone/manual/</loc>
+         <lastmod>2025-12-02</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://pmod.robotikabrno.cz/PIEZO/</loc>
          <lastmod>2025-12-02</lastmod>
          <changefreq>daily</changefreq>
